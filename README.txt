@@ -37,4 +37,22 @@ bash-3.2$ git push heroku master
 
 bash-3.2$ heroku open
 
+Go over to github and create a new repo and commit code
+
+bash-3.2$ git remote add origin https://github.com/bekiasu/todo-api.git
+bash-3.2$ git push -u origin master
+
+
+bash-3.2$ npm install body-parser@1.13.3 --save
+
+
+
+
+
+
+
+
+
+
+
 
