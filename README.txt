@@ -24,3 +24,17 @@ app.listen(PORT, function(){
 - Run this to check if server is running correctly
 bash-3.2$ node server.js
 
+bash-3.2$ heroku create
+
+bash-3.2$ heroku rename mohit-todo-api
+
+bash-3.2$ git status
+bash-3.2$ git add . 
+bash-3.2$ git status
+bash-3.2$ git commit -am "ToDo App repo init"
+
+bash-3.2$ git push heroku master
+
+bash-3.2$ heroku open
+
+
