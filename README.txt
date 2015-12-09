@@ -44,15 +44,12 @@ bash-3.2$ git push -u origin master
 
 
 bash-3.2$ npm install body-parser@1.13.3 --save
+bash-3.2$ npm install underscore@1.8.3 --save
 
 
 
+Excellent documentation for underscore @
+http://underscorejs.org/
 
 
-
-
-
-
-
-
-
+git commit -am "Use underscore in app"
