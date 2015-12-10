@@ -42,14 +42,31 @@ Go over to github and create a new repo and commit code
 bash-3.2$ git remote add origin https://github.com/bekiasu/todo-api.git
 bash-3.2$ git push -u origin master
 
-
 bash-3.2$ npm install body-parser@1.13.3 --save
 bash-3.2$ npm install underscore@1.8.3 --save
-
-
 
 Excellent documentation for underscore @
 http://underscorejs.org/
 
 
 git commit -am "Use underscore in app"
+
+Use node debugger...
+debugger;
+    cont
+    repl (check variables here)
+    ctrl+c
+    cont
+    kill
+    
+npm install sequelize@3.5.1 --save
+
+npm install sqlite3@3.0.10 --save
+
+
+
+
+
+
+
+
